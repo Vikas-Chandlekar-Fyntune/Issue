@@ -4,3 +4,5 @@
         - tailwind
         - Shadcn
         - prettier
+        
+2. chore(config): update TypeScript configuration
