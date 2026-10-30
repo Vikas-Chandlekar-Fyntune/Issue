@@ -6,3 +6,5 @@
         - prettier
         
 2. chore(config): update TypeScript configuration
+
+3. chore(lint): remove oxlint configuration and dependencies
