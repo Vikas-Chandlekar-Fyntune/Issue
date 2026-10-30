@@ -1,0 +1,6 @@
+1. Following
+    - Start
+    - Install
+        - tailwind
+        - Shadcn
+        - prettier
